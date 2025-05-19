@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Abdellah</h1>
 <h3 align="center">A passionate Web Developer From Egypt</h3>
 
-- 🌱 I’m currently learning **ASP.NET Core**
+- 🌱 I’m currently learning **React.js**
 
 - 💬 Ask me about **Front-End**
 
